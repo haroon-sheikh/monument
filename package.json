@@ -63,7 +63,7 @@
     "form-data": "2.3.1",
     "http2": "3.3.7",
     "istanbul": "0.4.5",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "mocha": "4.0.0",
     "mock-require": "2.0.2",
     "spdy": "3.4.7",
